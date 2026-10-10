@@ -39,10 +39,10 @@ thing on a weekly schedule. Served through Streamlit, containerised with Docker.
 
 | | |
 |---|---|
-| **Languages** | Python · SQL |
-| **Data** | pandas · PostgreSQL · Dagster · GraphQL and REST APIs |
-| **ML & NLP** | scikit-learn · PyTorch · transformers · sentence-transformers |
-| **Shipping** | FastAPI · Streamlit · Docker · Git · GitHub Actions · pytest |
+| **Languages** | Python · Java · SQL |
+| **Data** | pandas · numpy · Dagster · Airflow · GraphQL and REST APIs |
+| **ML & NLP** | scikit-learn · PyTorch · LangChain · transformers · sentence-transformers |
+| **Shipping** | FastAPI · Streamlit · Docker · Kubernetes · Git · GitHub Actions · pytest |
 
 ---
 
