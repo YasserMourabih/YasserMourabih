@@ -22,7 +22,7 @@ of their median latency. Along the way: fine-tuning turned out to trade away
 out-of-distribution calibration, and a third of the French collapse turned out to be
 threshold drift rather than model failure.
 
-`Python` · `PyTorch` · `transformers` · `scikit-learn` · `FastAPI` · 137 tests · CI on 3.10–3.12
+`Python` · `PyTorch` · `transformers` · `scikit-learn` · `FastAPI` · 140 tests · CI on 3.10–3.12
 
 **[anime-data-platform](https://github.com/YasserMourabih/anime-data-platform)** — an
 end-to-end data platform, from API to interface.
