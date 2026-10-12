@@ -1,12 +1,14 @@
 ## Yasser Mourabih
 
-Final-year engineering student at IMT Nord Europe. I build data and machine-learning
-systems end to end — from the ingestion pipeline to the served model — and I care about
-the part most projects skip: checking that the thing still works outside the conditions
-it was built in.
+Final-year engineering student at IMT Nord Europe, currently on an exchange semester at
+Hohai University in Nanjing, China. I build data and machine-learning systems end to end
+— from the ingestion pipeline to the served model — and I care about the part most
+projects skip: checking that the thing still works outside the conditions it was built
+in.
 
 > **Looking for a 6-month end-of-studies internship, starting late January 2027** —
-> data science, data/ML engineering, NLP and LLM applications. Based in France.
+> data science, data/ML engineering, NLP and LLM applications. Based in France from
+> January; available for video interviews now (UTC+8).
 
 ---
 
